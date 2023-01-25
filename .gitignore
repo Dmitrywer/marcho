@@ -7,5 +7,5 @@ npm-debug.*
 
 dist/
 node_modules/
-packege-lock.jcon
+package-lock.jcon
 app/css/*
